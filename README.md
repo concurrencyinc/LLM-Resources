@@ -13,4 +13,6 @@
 | [RAG for structured data in PDFs (semi-structured RAG)](https://github.com/langchain-ai/langchain/blob/master/cookbook/Semi_Structured_RAG.ipynb) | Y |
 | [LangChain Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook) | Y |
 | [Agents, Chip Huyen](https://huyenchip.com/2025/01/07/agents.html) | - |
+| [MemGPT](https://arxiv.org/pdf/2310.08560) | [Letta](https://docs.letta.com/letta-platform) |
+| [More Agents is all you Need](https://arxiv.org/html/2402.05120v2) | [Y](https://github.com/MoreAgentsIsAllYouNeed/AgentForest) |
 
